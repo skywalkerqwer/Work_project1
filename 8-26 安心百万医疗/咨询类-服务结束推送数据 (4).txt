@@ -1,0 +1,29 @@
+{
+	"onLineTalk": {
+		"applyName": "姓名",
+		"applyPhone": "15656565656",
+		"cDepartment": "科室",
+		"cKeyword": "关键字",
+		"consultSummary": "远程咨询总结",
+		"consultTime": "2019-09-29 00:00:00",
+		"deServiceCode": "123",
+		"deServiceName": "详细服务名称",
+		"isOneself": 1,
+		"otherTimes": 1,
+		"pictures": [],
+		"policyNo": "2010008070002190000000163",
+		"serviceCode": "fw0001",
+		"serviceName": "健康咨询",
+		"serviceOrder": "12222222212",
+		"serviceOverTime": "2019-09-30 00:00:00",
+		"thisTimes": 2,
+		"totalTimes": 3,
+		"serviceNode": 7
+	},
+	"primaryKey": "2222222222222",
+	"serviceType": 1
+}
+
+
+加密后:
+c2ntySB2oLZ7bCRWxtAnmzcBUkJ/SMLsalauPSb2g6xNn8Knn6W0s5PWu5F+XkESzNw6Io/QbNpnQyURXOTYnM8TdjmkpK604Hr+Lbmr+JNADytuUNwvhfMDZdNXZ4BZhcY6xeO+lJZudo/Tc6oEIVR6dbXa/UbWujZHOSW0wQVEtZdwOLzZgLuzemgEpXkaS5z5Ao3dRLFpGYrp/Zg4YZxD8LRiklZQjNZRr80aYg+2nl2dpLClOCKA9wBgjXHNviYRoFBfVfJRQ5GgTHJT4UnL1UnMN4qeX02QIdCser3PRrne4UMKNuzCxdG7gXk//5kuKowVkM7X5gYSjJb0SauUSyPXSpa/5yc1tA8ZYI21I52QzaeAEPBrONfVBIDInk7cbv0OJsIcj+4bvQM/iqJ5ibgKyX1jX5ALA9UmSbF/OrbBhLx9X6sDQxmIjXX2VJPqGt4p8U4SFynlgu/z2UHN4154scYG/DyHyyvtC4br7VbCq/KoBEF5QqvSRMX50KddRUQvXhpIWuWk192CZf+9vuVaMYYssrgTyrQnK6vckV/3UgbCHNmzdvPKt/pGcCM9fbkYu7sTSwOIr26jvpcgGEaqDRlVdbqan5W01IM3OuSt8vqEOyhh9reLF5SE//N999M855Cv5AAuoDVLUDk5zXFX76u3CNSZYSupd9PPbBd6KWW9roVh5nTXXOg4PsZZIZKMJ6fN5P05vSF9HoRQrftoxb5x2Mb6x/ZF7p0eAkxZzzgWf1fVw35k25oo
