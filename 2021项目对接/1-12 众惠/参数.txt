@@ -1,0 +1,8 @@
+测试环境
+code C3093
+signKey ZH#DrgTest
+package_code P210
+生产环境
+code C3116
+signKey ZH#DrgPrd
+package_code P166
