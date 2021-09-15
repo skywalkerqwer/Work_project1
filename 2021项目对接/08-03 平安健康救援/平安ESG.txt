@@ -1,0 +1,3 @@
+esg可以理解为平安和外部系统调用的总线
+
+http://test-api.pingan.com.cn:20080/

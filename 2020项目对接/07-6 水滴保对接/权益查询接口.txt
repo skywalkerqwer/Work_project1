@@ -1,0 +1,6 @@
+水滴提出查询请求，传递产品标识码及保单号等字段，远盟根据水滴传来的参数在CRM备案数据中进行查询，若该保单号已经正常备案则返回正常状态，若该保单号未正常进行备案则返回异常状态。
+
+根据产品标识码和保单号进行查询的接口
+对应的接口访问地址如下：
+测试地址：http://wpttesthealthlink.cn/wpt-api-data/shuidi/record/dataTransfer/v3
+生成地址: http://wptapiint.healthlink.cn/wpt-api-data/shuidi/record/dataTransfer/v3
